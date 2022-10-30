@@ -1,0 +1,15 @@
+C:\Users\USER\OneDrive\Belgeler\C#-Dersleri\Kurucu_Metot\obj\Debug\net6.0\Kurucu_Metot.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Belgeler\C#-Dersleri\Kurucu_Metot\obj\Debug\net6.0\Kurucu_Metot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive\Belgeler\C#-Dersleri\Kurucu_Metot\obj\Debug\net6.0\Kurucu_Metot.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive\Belgeler\C#-Dersleri\Kurucu_Metot\obj\Debug\net6.0\Kurucu_Metot.AssemblyInfo.cs
+C:\Users\USER\OneDrive\Belgeler\C#-Dersleri\Kurucu_Metot\obj\Debug\net6.0\Kurucu_Metot.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Belgeler\C#-Dersleri\Kurucu_Metot\bin\Debug\net6.0\Kurucu_Metot.exe
+C:\Users\USER\OneDrive\Belgeler\C#-Dersleri\Kurucu_Metot\bin\Debug\net6.0\Kurucu_Metot.deps.json
+C:\Users\USER\OneDrive\Belgeler\C#-Dersleri\Kurucu_Metot\bin\Debug\net6.0\Kurucu_Metot.runtimeconfig.json
+C:\Users\USER\OneDrive\Belgeler\C#-Dersleri\Kurucu_Metot\bin\Debug\net6.0\Kurucu_Metot.dll
+C:\Users\USER\OneDrive\Belgeler\C#-Dersleri\Kurucu_Metot\bin\Debug\net6.0\Kurucu_Metot.pdb
+C:\Users\USER\OneDrive\Belgeler\C#-Dersleri\Kurucu_Metot\obj\Debug\net6.0\Kurucu_Metot.dll
+C:\Users\USER\OneDrive\Belgeler\C#-Dersleri\Kurucu_Metot\obj\Debug\net6.0\refint\Kurucu_Metot.dll
+C:\Users\USER\OneDrive\Belgeler\C#-Dersleri\Kurucu_Metot\obj\Debug\net6.0\Kurucu_Metot.pdb
+C:\Users\USER\OneDrive\Belgeler\C#-Dersleri\Kurucu_Metot\obj\Debug\net6.0\Kurucu_Metot.genruntimeconfig.cache
+C:\Users\USER\OneDrive\Belgeler\C#-Dersleri\Kurucu_Metot\obj\Debug\net6.0\ref\Kurucu_Metot.dll
